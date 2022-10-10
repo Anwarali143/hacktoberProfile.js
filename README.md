@@ -1,2 +1,4 @@
 # hacktoberProfile.js
-  {     name : "Shaik Anwar Ali",     place : "Hyderabad, Telangana, India",     github : "Anwarali5143"   }
+  { name : "Shaik Anwar Ali",     
+  place : "Hyderabad, Telangana, India",     
+  github : "Anwarali5143" }
